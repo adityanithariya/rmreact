@@ -1,0 +1,7 @@
+main{
+    margin-left: var(--margin-left);
+}
+p{
+    margin: 0;
+    padding: 0;
+}
